@@ -1,1 +1,27 @@
+* {
+  box-sizing: border-box;
+   font-family: Comic Sans MS ;
 
+}
+h1 {
+  margin-bottom: 90px;
+  text-align: center;
+}
+div div div { 
+   background-color: #C0C0C0;
+   border: 1px solid black;
+   width: 100%;
+   min-height: 200px;
+   margin: 1%;
+
+}
+div h2 {
+    background-color: #158FFA;
+    border: 1px solid black;
+    float: right;
+    margin-top: 0px;
+} 
+p{
+  position:relative;
+  top: 30px;
+  }
