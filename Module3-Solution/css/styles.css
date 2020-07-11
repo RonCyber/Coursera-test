@@ -1,0 +1,31 @@
+body {
+	font-size: 16px;
+	font-family: oxygen;
+}
+/* Header*/
+#header-nav {
+	background-color: #87CEEB;
+	border-radius: 0;
+	border: 0; 
+}
+
+.navbar-brand {
+	text-align: left;
+	height: auto;
+}
+.container {
+	margin: 0px;
+	padding: 0px;
+}
+div.collapse {
+	background-color: #0E4D92;
+	padding: 0px;
+	margin: 0px;
+
+}
+ul {
+	margin: 0px;
+	list-style-type: none;
+	text-align: center;
+
+}
